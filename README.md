@@ -3,7 +3,8 @@ The challenge answer can be seen in the image below:
 
 ![result](/images/result.png)
 
-To get to this answer, I coded in SQL like this:
+- To find the Average Life Expectancy in each region/continent I used Weighted Average based on population
+- To get to this answer, I coded in SQL like this:
 
 ```SQL
 INSERT INTO `AverageLifeExpectancy` (LifeProm, Region)
