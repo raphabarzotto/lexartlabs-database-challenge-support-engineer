@@ -12,5 +12,5 @@ INSERT INTO `AverageLifeExpectancy` (LifeProm, Region)
 		WHERE Continent = 'Africa';
 ```
 
-Full query can be found in `code.sql`
-To add the `AverageLifeExpectancy` table to the `world` database, run the query found in `world_averagelifeexpectancy.sql`
+- Full query can be found in `code.sql`
+- To add the `AverageLifeExpectancy` table to the `world` database, run the query found in `world_averagelifeexpectancy.sql`
